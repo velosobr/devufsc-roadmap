@@ -17,3 +17,14 @@ Programação Web
 Rodrigo Branas - https://www.youtube.com/rodrigobranas
 William Oliveira - https://woliveiras.com.br/
 Diego Fernandes - https://blog.rocketseat.com.br/author/diego/
+
+  Javascript
+
+   Livros
+   - You Don't Know JS (série de livros) - https://github.com/cezaraugusto/You-Dont-Know-JS
+    
+   Videos
+   - Curso em Video | Curso Grátis de JavaScript e ECMAScript para Iniciantes - https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+   - Rodrigo Branas | Desvendando a Linguagem Javascript - https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
+
+
