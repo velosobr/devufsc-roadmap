@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLER
 Programação Web
 
 -Mentores
-Rodrigo Branas - https://www.youtube.com/rodrigobranas
-William Oliveira - https://woliveiras.com.br/
-Diego Fernandes - https://blog.rocketseat.com.br/author/diego/
+- Rodrigo Branas - https://www.youtube.com/rodrigobranas
+- William Oliveira - https://woliveiras.com.br/
+- Diego Fernandes - https://blog.rocketseat.com.br/author/diego/
 
   Javascript
 
