@@ -19,6 +19,7 @@ Programação Web
 - Diego Fernandes - https://blog.rocketseat.com.br/author/diego/
 
 -Javascript
+
   Livros
   - You Don't Know JS (série de livros) - https://github.com/cezaraugusto/You-Dont-Know-JS
   
